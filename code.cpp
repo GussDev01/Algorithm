@@ -1,17 +1,13 @@
 #include <bits/stdc++.h>
 
 using namespace std;
-int main () {
-    cout << "Hola amores\n";
-    
-    int numero;
-    cout <<"digite un numero:";
-    cin >>numero;
 
-    if(numero%2==0){
-        cout<<"El numero es par";
-    }
-    else {
-        cout<<"El numero es impar";
-    }
+int main(void) {
+
+ios_base::sync_with_stdio(0);cin.tie(0);
+
+cout <<"El allan se la come"; 
+
+return 0; 
 }
+
