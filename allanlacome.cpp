@@ -1,13 +1,6 @@
-
 #include <bits/stdc++.h>
 
 using namespace std;
-<<<<<<< HEAD
-int main () {
-
-   
-}
-=======
 
 int main(void) {
 
@@ -18,4 +11,3 @@ cout <<"El allan se la come";
 return 0; 
 }
 
->>>>>>> e873fb3d05d944d687963752a61f4a4cac1482d2
