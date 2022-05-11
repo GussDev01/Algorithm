@@ -14,7 +14,7 @@ do
 
 
 cout <<"Escoja la perra operacion\n";
-cout <<"1.-Suma \n2.-Resta \n3.-Division \n4.-multiplicacion\n5.-Salir\n";
+cout <<"1.-Suma                    \t| \n2.-Resta                   \t| \n3.-Division                   \t| \n4.-multiplicacion         \t|\n5.-Salir                   \t|\n________________________________|\n";
 
 cin>> pos;
 
