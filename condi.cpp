@@ -2,7 +2,7 @@
 using namespace std;
 
 int main(){
-    int edad, ingreso,impuesto,porcentaje; 
+    int edad, ingreso, impuesto, porcentaje; 
 
     cout<<"Ingrese su edad: \n";
     cin>>edad;
